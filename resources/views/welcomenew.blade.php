@@ -42,7 +42,7 @@
 			<div class="content">
 				<div class="title">Laravel 5</div>
 				<div class="quote">{{ Inspiring::quote() }}</div>
-				<div class="title"><b>Ajesh Prakash New post demo jenkins</b></div>				
+				<div class="title"><b>Ajesh Prakash New post demo jenkins gitub</b></div>				
 			</div>
 		</div>
 	</body>
